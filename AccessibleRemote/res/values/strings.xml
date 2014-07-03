@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AccessibleRemote</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="noremotes_message">Could not find any remotes</string>
+    <string name="noremotes_title">No remotes!!</string>
+    <string name="ok">OK</string>
+
+</resources>

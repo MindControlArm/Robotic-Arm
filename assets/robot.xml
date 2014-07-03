@@ -1,0 +1,16 @@
+<img src="robot.png" alt="" usemap="#map" />
+<map name="map">
+    <area shape="circle" coords="185, 571, 43" href="arduino://gripper/1" alt="Close gripper" title="gripperclose" />
+    <area shape="circle" coords="280, 570, 44" href="arduino://gripper/0" alt="Open gripper" title="opengripper" />
+    <area shape="circle" coords="317, 447, 43" href="arduino://gripperrotate/0" alt="Gripper rotate left" title="gripperrotateleft" />
+    <area shape="circle" coords="228, 401, 43" href="arduino://gripperrotate/1" alt="Gripper rotate right" title="gripperrotateright" />
+    <area shape="circle" coords="337, 147, 44" href="arduino://gripperrotateupdown/1" alt="Gripper rotate up" title="gripperrotateup" />
+    <area shape="circle" coords="377, 279, 43" href="arduino://gripperrotateupdown/0" alt="Gripper rotate down" title="gripperrotatedown" />
+    <area shape="circle" coords="582, 373, 44" href="arduino://stop/" alt="Stop" title="stop" />
+    <area shape="circle" coords="902, 100, 44" href="arduino://arm/1" alt="Arm up" title="armup" />
+    <area shape="circle" coords="901, 204, 45" href="arduino://arm/0" alt="Arm down" title="armdown" />
+    <area shape="circle" coords="946, 427, 42" href="arduino://baseforwardback/1" alt="Base forward" title="baseforward" />
+    <area shape="circle" coords="1071, 428, 45" href="arduino://baseforwardback/0" alt="Base back" title="baseback" />
+    <area shape="circle" coords="961, 607, 43" href="arduino://armrotate/0" alt="Rotate arm left" title="armrotateleft" />
+    <area shape="circle" coords="1079, 606, 43" href="arduino://armrotate/1" alt="Rotate arm right" title="armrotateright" />
+</map>
